@@ -1,0 +1,27 @@
+@import './normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto Condensed', 'Arial', sans-serif;
+    font-size: 12px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.indents-reset {
+    margin: 0;
+    padding: 0;
+}
